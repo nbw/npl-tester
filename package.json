@@ -1,0 +1,14 @@
+{
+  "name": "npl-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-nlp": "^4.8.0"
+  }
+}
